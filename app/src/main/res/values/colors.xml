@@ -1,0 +1,13 @@
+<resources>
+    <color name="pastel_blue">#A9C2DE</color>
+    <color name="pastel_pink">#F5C2D1</color>
+    <color name="pastel_gray">#E0E0E0</color>
+    <color name="pastel_light_gray">#F5F5F5</color>
+    <color name="pastel_white">#FFFFFF</color>
+    <color name="pastel_black">#333333</color>
+    <color name="sent_message">#AEC6CF</color>  <!-- Pastel Blue -->
+    <color name="received_message">#E0E0E0</color>  <!-- Light Gray -->
+    <color name="white">#FFFFFF</color>
+
+
+</resources>

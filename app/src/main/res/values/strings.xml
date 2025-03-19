@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Chat</string>
+    <string name="login_title">Final Chat</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+</resources>
